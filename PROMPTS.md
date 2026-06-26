@@ -15,3 +15,7 @@
 # Prompt: Rediseño, Verificación y Update de DESIGN.md
 
 > Actúa como un desarrollador frontend. El diseño actual de la UI no me gusta del todo. Usa la skill `frontend-design` para renovar por completo la interfaz, incluyendo fuentes, colores, estilos y todo lo demás. Luego, levanta el proyecto localmente para verificar que todo esté funcionando de forma correcta en el navegador. Una vez que termines, actualiza el archivo `design.md`.
+
+# Prompt: Crear Home desde URL
+
+> Aquí te paso esta URL [pega aquí tu enlace] para que montes la página home de nuestra landing aquí en Antigravity. Confírmame cuando ya esté levantada y corriendo bien en local.
