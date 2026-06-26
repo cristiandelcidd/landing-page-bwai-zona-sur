@@ -11,3 +11,7 @@
 ## Prompt inicial para maquetar la interfaz en Stitch:
 
 > Quiero que crees una landing page para el evento Build With AI Zona Sur en Choluteca, se está llevando a cabo en UNAH Campus Choluteca, quiero que incluyas los estilos, tipografia y espaciados definidos en el design.md
+
+# Prompt: Rediseño, Verificación y Update de DESIGN.md
+
+> Actúa como un desarrollador frontend. El diseño actual de la UI no me gusta del todo. Usa la skill `frontend-design` para renovar por completo la interfaz, incluyendo fuentes, colores, estilos y todo lo demás. Luego, levanta el proyecto localmente para verificar que todo esté funcionando de forma correcta en el navegador. Una vez que termines, actualiza el archivo `design.md`.
